@@ -24,4 +24,6 @@ This repository is available for collaboration via:
 
 ## Integration with LinkedIN:
 
-The documented projects are also on my LinkedIn profile, composing my professional portfolio
+The documented projects are also on my LinkedIn profile, composing my professional portfolio:
+
+` https://www.linkedin.com/in/tiago-saito-a43511365/ `
